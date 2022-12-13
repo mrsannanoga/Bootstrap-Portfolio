@@ -6,7 +6,11 @@ body {
 .sectionHeading {
     padding-top: 50px;
     padding-bottom: 20px;
+    text-transform: uppercase;
 
+}
+.masthead {
+    padding-bottom: 50px;
 }
 .navhero {
     background-image: url("../images/water.jpg");
@@ -27,6 +31,11 @@ body {
 }
 .navbar {
     justify-content: flex-end;
+
+}
+.herocontent {
+    padding-bottom: 30px;
+    padding-right: 100px;
 }
 .row {
     justify-content: space-around;    
@@ -48,11 +57,7 @@ body {
 }
 .card-work {
     margin: 0 auto; 
-    align-items: center;
-    border: none;
-    
 }
-
 .skills-section {
     background-color: #05a6fd;
     padding-bottom: 30px;
@@ -63,10 +68,13 @@ body {
 }
 .cardSection {
     border: solid 3px white;
-    border-radius: 25px;
-    margin: 20px; 
+    border-radius: 25px; 
 
 }
+.cardSection:hover {
+    box-shadow: inset 0px 0px 8px white, 0 0 15px white;
+}
+
 
 .img-fluid {
     border-radius: 50%;
@@ -74,6 +82,21 @@ body {
 }
 .btn {
     border-radius: 1rem;
+
+}
+.btn-light:hover {
+    box-shadow: inset 0px 0px 8px white, 0 0 15px white;
+}
+.btn-primary:hover {
+    box-shadow: inset 0px 0px 8px #05a6fd, 0 0 15px #05a6fd;
+ 
+}
+.btn-outline-dark:hover {
+    box-shadow: inset 0px 0px 8px rgb(36, 36, 36), 0 0 15px rgb(36, 36, 36);
+
+}
+.aboutme-contact {
+    padding-bottom: 50px;
 }
 .contact-button {
     width: 100px;
@@ -89,4 +112,7 @@ body {
 }
 h1 {
     font-size: 5rem;
+}
+.mx-auto {
+    justify-content: space-around;
 }
