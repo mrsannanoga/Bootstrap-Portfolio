@@ -52,15 +52,22 @@ body {
     border: none;
     
 }
-.card-section {
-    border: solid 1px;
-    border-radius: 25px;
-    margin: 0 auto; 
+
+.skills-section {
+    background-color: #05a6fd;
+    padding-bottom: 30px;
 }
 .skills-list {
     text-align: left;
     padding-top: 5px;
 }
+.cardSection {
+    border: solid 3px white;
+    border-radius: 25px;
+    margin: 20px; 
+
+}
+
 .img-fluid {
     border-radius: 50%;
     padding: 20px;
@@ -71,6 +78,10 @@ body {
 .contact-button {
     width: 100px;
     height: 100px;
+}
+.footer-container {
+    padding: 30px;
+    background-color: grey;
 }
 .footer-icon {
     color: black;
