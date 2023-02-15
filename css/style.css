@@ -105,6 +105,12 @@ body {
 .contact-button {
     width: 100px;
     height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-content: stretch;
+    flex-direction: column;
+
 }
 .footer-container {
     padding: 30px;
