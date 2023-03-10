@@ -5,7 +5,7 @@
 This portfolio of my own presents essential information about me as a web developer enable to view by future employers, clients and anyone looking for collaboration. There are few few welcome words about me and invitation to know me better in About Me and Contact section. However, mainly interesting part contains few of my existing projects in the field of web development, which I am mostly proud of and skills I am expecting to get on the bootcampm at the section below. Moreover, it is possible check my GitHub and  professional social media as LinkedIn via hyperlinks at the bottom of the page. 
 
 
-[Consile](https://mrsannanoga.github.io/bootstrap-portfolio/) is live and enable to view online. 
+[Portfolio](https://mrsannanoga.github.io/bootstrap-portfolio/) is live and enable to view online. 
 
 ## Usage
 
